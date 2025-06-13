@@ -1,4 +1,3 @@
 name = "html-worker"
-type = "javascript"
 compatibility_date = "2025-06-13"
-assets = { directory = "." }
+assets = { directory = "./" }
